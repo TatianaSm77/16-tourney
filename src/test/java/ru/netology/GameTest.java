@@ -1,7 +1,7 @@
 package ru.netology;
 
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 import ru.netology.exceptions.NotRegisteredException;
 
